@@ -50,19 +50,3 @@ npm -v
 
 5. Visit the application at `http://localhost:3000` in your browser to view the app!
 
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## Contact
-
-For any queries or feedback, reach out to [sggopi2002@gmail.com](mailto:sggopi2002@gmail.com).
-
-## Known Issues
-
-- There are currently no known issues. If you encounter any, please report them.
-
-## Future Enhancements
-
-- Implementing user accounts for more personalized bookshelves.
-- Enhancing search capabilities with filters and sorts.
